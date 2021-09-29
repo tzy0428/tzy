@@ -1,1 +1,8 @@
 1. git init 创建本地仓库
+2.git add . 将所有文件打包
+3.git commit -m "xxx" 提交到仓库并命名
+4.登录 github.com
+5.git clone xxxx（远程仓库地址） 将远程仓库的代码下载到本地仓库
+6.git push xxxx（远程仓库地址） 将本地仓库提交到远程仓库（第一次提交需要加上远程仓库地址）
+
+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
