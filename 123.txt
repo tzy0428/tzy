@@ -5,4 +5,4 @@
 5.git clone xxxx（远程仓库地址） 将远程仓库的代码下载到本地仓库
 6.git push xxxx（远程仓库地址） 将本地仓库提交到远程仓库（第一次提交需要加上远程仓库地址）
 
-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
+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
